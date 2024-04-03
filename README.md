@@ -6,15 +6,15 @@ How well those variables describe the price of a house. Also, determine the opti
 ### Business Goal
 You are required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 ### Results of the model 
-Ridge Regression :
- Alpha = 3.0
- Mean Squared Error = 0.01575
- Training Accuracy = 93.72%
- Test Accuracy = 90.94%
+##### Ridge Regression :
+ - Alpha = 3.0
+ - Mean Squared Error = 0.01575
+ - Training Accuracy = 93.72%
+ - Test Accuracy = 90.94%
  
-Lasso Regression :
- Alpha = 0.0002
- Mean Squared Error = 0.01564
- Training Accuracy = 93.04%
- Test Accuracy = 89.22%
+##### Lasso Regression :
+ - Alpha = 0.0002
+ - Mean Squared Error = 0.01564
+ - Training Accuracy = 93.04%
+ - Test Accuracy = 89.22%
 
